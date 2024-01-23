@@ -5,13 +5,13 @@ let lider;
 //INIT (Random)
 var ficha = 1;
 var batalla = 0;
-var region = 3;
+var region = 1;
 //Kanto
-//let starters = [1, 4, 7, 52, 133]
+let starters = [1, 4, 7, 52, 133]
 //Johto
 //let starters = [152, 155, 158, 172, 175]
 //Hoenn
-let starters = [252, 255, 258, 298, 360]
+//let starters = [252, 255, 258, 298, 360]
 
 let miEquipo = [];
 let miTrio = []
