@@ -1,0 +1,208 @@
+{
+    "green": {
+      "Brock": {
+        "Pokemon": ["Geodude", "Rhyhorn", "Onix"],
+        "Total": 9,
+        "asset": "./assets/01_brock.png"
+      },
+      "Misty": {
+        "Pokemon": ["Goldeen", "Psyduck", "Starmie"],
+        "Total": 8,
+        "asset": "./assets/02_misty.png"
+      },
+      "Pegaso": {
+        "Pokemon": ["Pidgey", "Delibird", "Noctowl"],
+        "Total": 9,
+        "asset": "./assets/14_pegaso.png"
+      },
+      "Anton": {
+        "Pokemon": ["Metapod", "Kakuna", "Scyther"],
+        "Total": 10,
+        "asset": "./assets/15_anton.png"
+      },
+      "Petra": {
+        "Pokemon": ["Kabuto", "Omanyte", "Nosepass"],
+        "Total": 8,
+        "asset": "./assets/26_petra.png"
+      },
+      "Marcial": {
+        "Pokemon": ["Meditite", "Makuhita", "Breloom"],
+        "Total": 9,
+        "asset": "./assets/27_marcial.png"
+      }
+    },
+    "red": {
+      "Teniente Surge": {
+        "Pokemon": ["Electrode", "Magneton", "Raichu"],
+        "Total": 10,
+        "asset": "./assets/03_surge.png"
+      },
+      "Erika": {
+        "Pokemon": ["Tangela", "Gloom", "Weepinbell"],
+        "Total": 9,
+        "asset": "./assets/04_erika.png"
+      },
+      "Sachiko": {
+        "Pokemon": ["Nidorina", "Muk", "Weezing"],
+        "Total": 9,
+        "asset": "./assets/05_sachiko.png"
+      },
+      "Blanca": {
+        "Pokemon": ["Stantler", "Donphan", "Miltank"],
+        "Total": 14,
+        "asset": "./assets/16_blanca.png"
+      },
+      "Morti": {
+        "Pokemon": ["Marowak", "Misdreavus", "Haunter"],
+        "Total": 13,
+        "asset": "./assets/17_morti.png"
+      },
+      "Anibal": {
+        "Pokemon": ["Hitmontop", "Primeape", "Poliwrath"],
+        "Total": 14,
+        "asset": "./assets/18_anibal.png"
+      },
+      "Erico": {
+        "Pokemon": ["Minun", "Magneton", "Manectric"],
+        "Total": 12,
+        "asset": "./assets/28_erico.png"
+      },
+      "Candela": {
+        "Pokemon": ["Slugma", "Camerupt", "Torkoal"],
+        "Total": 13,
+        "asset": "./assets/29_candela.png"
+      },
+      "Norman": {
+        "Pokemon": ["Spinda", "Linoone", "Slaking"],
+        "Total": 13,
+        "asset": "./assets/30_norman.png"
+      }
+    },
+    "blue": {
+      "Sabrina": {
+        "Pokemon": ["Venomoth", "Mr. Mime", "Alakazam"],
+        "Total": 16,
+        "asset": "./assets/06_sabrina.png"
+      },
+      "Blaine": {
+        "Pokemon": ["Rapidash", "Ninetales", "Arcanine"],
+        "Total": 15,
+        "asset": "./assets/07_blaine.png"
+      },
+      "Giovanni": {
+        "Pokemon": ["Persian", "Nidoking", "Mewtwo"],
+        "Total": 23,
+        "asset": "./assets/08_giovanni.png"
+      },
+      "Yasmina": {
+        "Pokemon": ["Magneton", "Skarmory", "Steelix"],
+        "Total": 18,
+        "asset": "./assets/19_yasmina.png"
+    },
+      "Fredo": {
+        "Pokemon": ["Dewgong", "Cloyster", "Piloswine"],
+        "Total": 15,
+        "asset": "./assets/20_fredo.png"
+      },
+      "Debora": {
+        "Pokemon": ["Gyarados", "Kingdra", "Dragonair"],
+        "Total": 18,
+        "asset": "./assets/21_debora.png"
+      },
+      "Alana": {
+        "Pokemon": ["Swellow", "Pelipper", "Tropius"],
+        "Total": 17,
+        "asset": "./assets/31_alana.png"
+      },
+      "Vito y Leti": {
+        "Pokemon": ["Claydol", "Lunatone", "Solrock"],
+        "Total": 17,
+        "asset": "./assets/32_vitoleti.png"
+      },
+      "Galano": {
+        "Pokemon": ["Gorebyss", "Huntail", "Crawdaunt"],
+        "Total": 15,
+        "asset": "./assets/33_galano.png"
+      }
+    },
+    "yellow": {
+      "Lorelei": {
+        "Pokemon": ["Cloyster", "Jynx", "Lapras"],
+        "Total": 17,
+        "asset": "./assets/09_lorelei.png"
+      },
+      "Agatha": {
+        "Pokemon": ["Golbat", "Arbok", "Gengar"],
+        "Total": 22,
+        "asset": "./assets/10_agatha.png"
+      },
+      "Mento": {
+        "Pokemon": ["Slowbro", "Jynx", "Exeggutor"],
+        "Total": 16,
+        "asset": "./assets/22_mento.png"
+      },
+      "Koga": {
+        "Pokemon": ["Forretress", "Ariados", "Crobat"],
+        "Total": 16,
+        "asset": "./assets/23_koga.png"
+      },
+      "Karen": {
+        "Pokemon": ["Murkrow", "Umbreon", "Houndoom"],
+        "Total": 16,
+        "asset": "./assets/24_karen.png"
+      },
+      "Bruno": {
+        "Pokemon": ["Hitmonlee", "Hitmonchan", "Machamp"],
+        "Total": 17,
+        "asset": "./assets/25_bruno.png"
+      },
+      "Sixto": {
+        "Pokemon": ["Cacturne", "Sharpedo", "Absol"],
+        "Total": 16,
+        "asset": "./assets/34_sixto.png"
+      },
+      "Fatima": {
+        "Pokemon": ["Sableye", "Banette", "Dusclops"],
+        "Total": 16,
+        "asset": "./assets/35_fatima.png"
+      },
+      "Nivea": {
+        "Pokemon": ["Sealeo", "Glalie", "Walrein"],
+        "Total": 15,
+        "asset": "./assets/36_nivea.png"
+      },
+      "Dracon": {
+        "Pokemon": ["Altaria", "Flygon", "Salamence"],
+        "Total": 18,
+        "asset": "./assets/37_dracon.png"
+      }
+    },
+    "champion": {
+      "Ash": {
+        "Pokemon": ["Lapras", "Snorlax", "Charizard"],
+        "Total": 24,
+        "asset": "./assets/12_ash.png"
+      },
+      "Gary": {
+        "Pokemon": ["Exeggutor", "Arcanine", "Blastoise"],
+        "Total": 24,
+        "asset": "./assets/13_gary.png"
+      },
+      "Lance": {
+        "Pokemon": ["Gyarados", "Aerodactyl", "Dragonite"],
+        "Total": 25,
+        "asset": "./assets/11_lance.png"
+      },
+      "Maximo": {
+        "Pokemon": ["Cradily", "Armaldo", "Metagross"],
+        "Total": 20,
+        "asset": "./assets/38_maximo.png"
+      },
+      "Plubio": {
+        "Pokemon": ["Whiscash", "Ludicolo", "Milotic"],
+        "Total": 19,
+        "asset": "./assets/39_plubio.png"
+      }
+    }
+}
+  
